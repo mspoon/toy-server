@@ -1,4 +1,4 @@
 [root]
-name = "server_test"
+name = "toy-server"
 version = "0.0.1"
 
